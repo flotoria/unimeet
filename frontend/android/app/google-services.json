@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096018405172",
+    "project_id": "nayr-424409",
+    "storage_bucket": "nayr-424409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096018405172:android:1e2d0c6f347f58412ae761",
+        "android_client_info": {
+          "package_name": "com.breakisle.unimeet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL94ROipgUQbpuhn6oKjG3Ngizrhohfs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
